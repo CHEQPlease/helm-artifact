@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dummy-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-20T03:37:34.226322757Z"
+    description: A Helm chart for Kubernetes
+    digest: 5759d8e4f8ad942868a8ee3b43c8c66cea081e101f3225e9107cce9a5cc6d3ef
+    name: dummy-chart
+    type: application
+    urls:
+    - https://github.com/CHEQPlease/helm-artifact/dummy-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-20T03:37:34.225770613Z"
